@@ -53,4 +53,4 @@ You may also want to install the [miranum-ide](https://marketplace.visualstudio.
     - Use the command palette (Ctrl+Shift+P) and run `deploy:dev`
     - `npm run deploy:dev`
 7. Have a look at Miranum-Deployment
-    - Open the documentation at [ttps://miranum.com/docs/components/miranum-ide/miranum-deployment](https://miranum.com/docs/components/miranum-ide/miranum-deployment)
+    - Open the documentation at [https://miranum.com/docs/components/miranum-ide/miranum-deployment](https://miranum.com/docs/components/miranum-ide/miranum-deployment)
