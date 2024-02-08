@@ -22,20 +22,23 @@
                             "childrenClass": "pl-0"
                         },
                         "properties": {
-                            "e66723a4-2dcc-4f04-a374-83b5d9fb3fc4": {
+                            "TEXTFIELD": {
+                                "fieldType": "text",
+                                "title": "Textfield",
+                                "type": "string",
+                                "key": "TEXTFIELD",
                                 "x-options": {
                                     "fieldColProps": {
                                         "cols": 12,
-                                        "sm": 12
+                                        "sm": 12,
+                                        "messages": {}
                                     }
                                 },
                                 "x-props": {
                                     "outlined": true,
                                     "dense": true
                                 },
-                                "fieldType": "text",
-                                "title": "Textfield",
-                                "type": "string"
+                                "x-rules": []
                             }
                         },
                         "key": "79b91a20-5be3-4020-8e18-e0c7cd5e4983"
